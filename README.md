@@ -7,7 +7,23 @@ Currently, I am expanding my expertise in **C++ (for DSA) and Django (for backen
 ## 💡 What I'm Working On  
 - Improving my problem-solving skills in **DSA**  
 - Building projects using **Python Django**  
-- Exploring **System Design and Backend Development**  
+- Exploring **System Design and Backend Development**
+
+## 🌟 Projects  
+Here are some of my notable projects:  
+
+### 📌 [CodeSphere](https://github.com/DeveloperAbhishekRajpoot/CodeSphere)  
+A coding platform where students can complete functions instead of writing entire programs. It includes:  
+- **Monaco Editor** for live coding  
+- **Predefined test cases** for automatic code evaluation  
+- **Django backend** with Docker container execution  
+
+### 📌 [Gold Cost Library](https://github.com/DeveloperAbhishekRajpoot/Gold-Cost-Library)  
+A **library management system** built with Django, featuring:  
+- **Admin dashboard** to manage students  
+- **Automated reminders** for fee payments  
+- **Dynamic UI** that adjusts as students are added  
+
 
 ## 🤝 Open to Collaboration  
 I am looking to collaborate on **open-source projects**, **DSA problem-solving**, and **backend development**.  
